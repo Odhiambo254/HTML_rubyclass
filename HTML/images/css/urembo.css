@@ -1,0 +1,27 @@
+h2 {
+    color: #d10f0f;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: oblique;
+
+}
+
+th,td{
+    border: 1px solid #3d3434;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    padding: 5px;
+}
+ol{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
